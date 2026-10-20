@@ -32,7 +32,7 @@ footer-links:
   rss: # ضع أي قيمة هنا لتظهر أيقونة RSS
   twitter: 
   stackoverflow: # هويتك في stackoverflow مثلا: "users/50476/bart-kiers"
-  youtube: # إما channel/<عنوان_قناتك_الطويل> أو user/<اسم-مستخدمك>
+  youtube: # إما channel/<عنوان قناتك الطويل> أو user/<اسم-مستخدمك>
   googleplus: # رقم التعريف عندما تزور هويتك (كل ما يتبع plus.google.com/)
 
 
@@ -47,8 +47,8 @@ google_analytics:
 # يستخدم هذا المتغير في الـRSS والـSitemap.xml
 url: "https://shubbair.github.io"
 
-# إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم المشروع
-baseurl: "/loah-blogs"
+# إذا كانت المدونة خاصة للصفحات المشاريع في GitHub (http://yourusername.github.io/repository-name مثلاً) عدل هذا المتغير ليطابق اسم ا...
+baseurl: "/loah-blog"
 
 
 #
@@ -76,8 +76,8 @@ sass:
 
 # Use the following plug-ins
 gems:
-  - jekyll-sitemap # Create a sitemap using the official Jekyll sitemap gem
-  - jekyll-feed # Create an Atom feed using the official Jekyll feed gem
+  - jekyll-sitemap # Create a sitemap using the official jekyll sitemap gem
+  - jekyll-feed # Create an Atom feed using the official jekyll feed gem
 
 # Exclude these files from your production _site
 exclude:
